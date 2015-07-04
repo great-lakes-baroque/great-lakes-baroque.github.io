@@ -7,4 +7,4 @@ sharing: false
 
 ### Great Lakes Baroque Festival
 
-[Many details here! Taking place at [Wisconsin Lutheran College](http://www.wlc.edu/) on October 24...]
+Join us at [Wisconsin Lutheran College](http://www.wlc.edu/) on October 24th for performances, a youth Baroque music competition, and more!
