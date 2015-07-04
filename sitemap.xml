@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://great-lakes-baroque.github.io/about.html</loc>
+  </url>
+  <url>
+    <loc>http://great-lakes-baroque.github.io/artists/chuang.html</loc>
+  </url>
+  <url>
+    <loc>http://great-lakes-baroque.github.io/concerts.html</loc>
+  </url>
+  <url>
+    <loc>http://great-lakes-baroque.github.io/events.html</loc>
+  </url>
+  <url>
     <loc>http://great-lakes-baroque.github.io/blog/archives/</loc>
   </url>
   <url>
+    <loc>http://great-lakes-baroque.github.io/blog/categories/</loc>
+  </url>
+  <url>
     <loc>http://great-lakes-baroque.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://great-lakes-baroque.github.io/artists/leroy.html</loc>
+  </url>
+  <url>
+    <loc>http://great-lakes-baroque.github.io/artists/macdonald.html</loc>
+  </url>
+  <url>
+    <loc>http://great-lakes-baroque.github.io/support.html</loc>
+  </url>
+  <url>
+    <loc>http://great-lakes-baroque.github.io/artists/vinikour.html</loc>
   </url>
 </urlset>

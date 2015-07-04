@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Great Lakes Baroque]]></title>
   <link href="http://great-lakes-baroque.github.io/atom.xml" rel="self"/>
   <link href="http://great-lakes-baroque.github.io/"/>
-  <updated>2015-07-02T14:57:41-05:00</updated>
+  <updated>2015-07-04T13:36:49-05:00</updated>
   <id>http://great-lakes-baroque.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Great Lakes Baroque]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
