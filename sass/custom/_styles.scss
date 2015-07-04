@@ -1,0 +1,18 @@
+.artist-profile {
+  margin: 0 auto;
+  max-width: 50%;
+  @media screen and (min-width: 830px) {
+    float: right;
+    margin: 0 -2em 0 2em;
+  }
+}
+#macdonald {
+  img {
+    @media screen and (min-width: 830px) {
+      width: 60%;
+    }
+    @media screen and (max-width: 829px) {
+      width: 75%;
+    }
+  }
+}
