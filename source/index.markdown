@@ -5,7 +5,7 @@ layout: page
 {% assign index = true %}
 
 Exciting events are coming to the Great Lakes. World-renowned, Grammy-nominated
-harpsichordist and conductor Jory Vinikour will be bringing the finest
+harpsichordist and conductor [**Jory Vinikour**](/artists/vinikour.html) will be bringing the finest
 performers of Baroque music to Milwaukee and beyond. Come share in the
 experience of glorious Baroque music, presented at delightful venues.
 
