@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Great Lakes Baroque]]></title>
-  <link href="http://great-lakes-baroque.github.io/atom.xml" rel="self"/>
-  <link href="http://great-lakes-baroque.github.io/"/>
-  <updated>2015-08-19T23:47:39-05:00</updated>
-  <id>http://great-lakes-baroque.github.io/</id>
+  <link href="http://www.greatlakesbaroque.org/atom.xml" rel="self"/>
+  <link href="http://www.greatlakesbaroque.org/"/>
+  <updated>2015-08-21T17:04:55-05:00</updated>
+  <id>http://www.greatlakesbaroque.org/</id>
   <author>
-    <name><![CDATA[Great Lakes Baroque]]></name>
+    <name><![CDATA[Great Lakes Baroque, Ltd.]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
