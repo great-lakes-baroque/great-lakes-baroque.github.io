@@ -4,12 +4,14 @@ title: "Jory Vinikour"
 comments: false
 sharing: false
 ---
+<div><em>Artistic director</em><br/><br/></div>
 
 <figure class="artist-profile">
   <a href="{{ root_url }}/assets/vinikour.jpg">
     {% img /assets/vinikour.jpg %}
   </a>
 </figure>
+
 Two time Grammy(r) Award nominated harpsichordist Jory Vinikour is recognized as
 one of the outstanding musicians of his generation. A highly diversified career
 brings him to the world's most important festivals and concert halls as recital
