@@ -21,7 +21,12 @@ Rome, Paris, London, Leipzig &hellip; now at Milwaukee’s doorstep. Come join u
 Please join us for the Great Lakes Baroque opening concert!
 
 *Io vidi in terra*: Italian songs and duets of the 17<sup>th</sup> century,
-featuring Céline Ricci, mezzo-soprano, and José Lemos, counter-tenor.
+featuring brilliant mezzo-soprano Céline Ricci and renowned counter-tenor José Lemos
+joined by Deborah Fox (theorbo and Baroque guitar), Craig Trompeter (Baroque cello),
+and Jory Vinikour (harpsichord). Discover rare jewels of poetry set to music by
+extraordinary composers such as Claudio Monteverdi, Marco da Gagliano, Barbara
+Strozzi, Tarquinio Merula, Agostino Steffani&hellip;
+
 
 <blockquote>
 September 13, 7:30PM<br/>
