@@ -9,6 +9,16 @@ layout: page
 <em> Jory Vinikour, artistic director</em>
 </div>
 
+<div class="float-right">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="2QX5FYZJ83SDA">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<small>Support the GLB, a 501(c)(3) non-profit!</small>
+</div>
+
 Exciting events are coming to the Great Lakes. World-renowned, Grammy-nominated
 harpsichordist and conductor [**Jory Vinikour**](/artists/vinikour.html) will be bringing the finest
 performers of Baroque music to Milwaukee and beyond. Come share in the
