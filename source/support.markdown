@@ -19,8 +19,8 @@ Alternatively, cheques may be sent to:
 
 <blockquote>
 Great Lakes Baroque, Ltd.<br/>
-2944 N. 122nd Street<br/>
-Wauwatosa, WI  53222-4017
+P.O. Box 26933<br/>
+Milwaukee, WI  53266-0933
 </blockquote>
 
 Feel free to call 414-475-5061 with any questions.
