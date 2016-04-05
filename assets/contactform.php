@@ -1,11 +1,5 @@
 <?PHP
-/*
-    Contact Form from HTML Form Guide
-    This program is free software published under the
-    terms of the GNU Lesser General Public License.
-    See this page for more info:
-    http://www.html-form-guide.com/contact-form/creating-a-contact-form.html
-*/
+
 require_once("./include/fgcontactform.php");
 require_once("./include/simple-captcha.php");
 
@@ -14,14 +8,10 @@ $sim_captcha = new FGSimpleCaptcha('scaptcha');
 
 $formproc->EnableCaptcha($sim_captcha);
 
-//1. Add your email address here.
-//You can add more than one receipients.
-$formproc->AddRecipient('tests@html-form-guide.com'); //<<---Put your email address here
+$formproc->AddRecipient('info@greatlakesbaroque.org');
+$formproc->AddRecipient('jvinikour@mac.com')
 
-
-//2. For better security. Get a random tring from this link: http://tinyurl.com/randstr
-// and put it here
-$formproc->SetFormRandomKey('CnRrspl1FyEylUj');
+$formproc->SetFormRandomKey('smdlS6kHheEBW8E');
 
 
 if(isset($_POST['submitted']))
@@ -77,7 +67,7 @@ if(isset($_POST['submitted']))
 </div>
 <fieldset id='antispam'>
 <legend >Anti-spam question</legend>
-<span class='short_explanation'>(Please answer the simple question below. This to prevent spam bots from submitting this form)</span>
+<span class='short_explanation'>(Please answer the simple question below to aid us in minimizing spam.)</span>
 <div class='container'>
     <label for='scaptcha' ><?php echo $sim_captcha->GetSimpleCaptcha(); ?></label>
     <input type='text' name='scaptcha' id='scaptcha' maxlength="10" /><br/>
