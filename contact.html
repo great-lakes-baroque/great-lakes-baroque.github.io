@@ -96,7 +96,7 @@
     <h1 class="title">Contact Us</h1>
     
     
-<div class="entry"><p><form action="http://www.SnapHost.com/captcha/send.aspx" id="ContactUsCaptchaWebForm" method="post" onsubmit="return ValidateForm(this);">
+<p><form action="http://www.SnapHost.com/captcha/send.aspx" id="ContactUsCaptchaWebForm" method="post" onsubmit="return ValidateForm(this);">
 <input name="skip_WhereToSend" type="hidden" value="your@email.com" />
 <input name="skip_SnapHostID" type="hidden" value="ZBCTP6MU3N7P" />
 <input name="skip_WhereToReturn" type="hidden" value="http://www.YourWebsiteAddress.com/ThankYouPage.htm" />
@@ -108,7 +108,7 @@ function ValidateForm(frm) {
 if (frm.Name.value == "") {alert('Name is required.');frm.Name.focus();return false;}
 if (frm.FromEmailAddress.value == "") {alert('Email address is required.');frm.FromEmailAddress.focus();return false;}
 if (frm.FromEmailAddress.value.indexOf("@") < 1 || frm.FromEmailAddress.value.indexOf(".") < 1) {alert('Please enter a valid email address.');frm.FromEmailAddress.focus();return false;}
-if (frm.Comments.value == "") {alert('Please enter comments or questions.');frm.Comments.focus();return false;}
+if (frm.Comments.value == "") {alert('Please enter your message.');frm.Comments.focus();return false;}
 if (frm.skip_CaptchaCode.value == "") {alert('Enter web form code.');frm.skip_CaptchaCode.focus();return false;}
 return true; }
 function ReloadCaptchaImage(captchaImageId) {
@@ -131,16 +131,12 @@ return false; }
 <td><b>Email address*:</b></td>
 <td><input name="FromEmailAddress" type="text" maxlength="60" style="width:350px;" /></td>
 </tr><tr>
-<td><b>Comments and questions*:</b></td>
-<td><textarea name="Comments" rows="7" cols="40" style="width:350px;"></textarea></td>
+<td><b>Message to GLB*:</b></td>
+<td><textarea name="Message to GLB" rows="7" cols="40" style="width:350px;"></textarea></td>
 </tr><tr>
 <td colspan="2" align="center"> <br />
 <table border="0" cellpadding="0" cellspacing="0">
-<tr><td colspan="2" style="padding-bottom:18px;">
-<!-- Please check our ProCaptcha service which is ad-free:
-http://www.SnapHost.com/captcha/ProCaptchaOverview.aspx -->
-<a href="http://www.snaphost.com/captcha/" alt="web page email form" title="web page email form">
-web page email form</a></td></tr>
+<tr><td colspan="2" style="padding-bottom:18px;"></td></tr>
 <tr valign="top"><td> <i>Enter web form code*:</i>
 <input name="skip_CaptchaCode" type="text" style="width:80px;" maxlength="6" />
 </td><td>
